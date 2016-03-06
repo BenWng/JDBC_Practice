@@ -64,6 +64,10 @@ public class solution_to_020 {
         apartmentInsert.close();
     }
 
+    void question2(Connection connection){
+
+    }
+
 
 
 
